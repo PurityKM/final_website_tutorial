@@ -249,3 +249,9 @@
     color: #fff;
     border: 1px solid black;
 }
+
+div h4,
+h5 {
+    text-align: center;
+    margin-bottom: 10px;
+}
